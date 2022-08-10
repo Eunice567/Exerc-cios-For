@@ -1,2 +1,2 @@
 # Exercícios Básicos 
-Função matemática elaborada com a estrutura FOR
+Exercícios básicos de lógica de programação na linguagem Java
